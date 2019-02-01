@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /oauth2
+Disallow: /extra
+Disallow: /prevents
